@@ -4,3 +4,6 @@ This is a list of trucks:
 Zuckee
 Bazooka
 Rambo
+Ford
+Toyota
+Berzerkers
