@@ -1,4 +1,4 @@
-This is a list of suoermarkets:
+This is a list of supermarkets:
 
 
 Sampars
@@ -7,5 +7,6 @@ Cheerful
 Jung
 Pricesmart 
 Hilo
-
+Walmart 
+Great Value
 
